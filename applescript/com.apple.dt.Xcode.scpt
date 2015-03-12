@@ -1,0 +1,1 @@
+tell application "Xcode"    try        set CurrentActiveDocument to document 1 whose name ends with (word -1 of (get name of window 1))        return the path of CurrentActiveDocument    end tryend tell
