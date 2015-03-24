@@ -1,6 +1,8 @@
 # ghostnote-community-scripts
 These scripts are public domain, donated by me to the Ghostnote community. Feel free to contribute and submit pull requests!
 
+For more on the app got to http://www.ghostnoteapp.com
+
 How to use:
 
 You can use the scripts in any way you want. If you want to use
