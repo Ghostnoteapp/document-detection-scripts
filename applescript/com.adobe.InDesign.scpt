@@ -1,3 +1,3 @@
-tell application "Adobe InDesign CC 2014"
-    return the name of the (get active document)
+tell application id "com.adobe.InDesign"
+    return name of (get active document)
 end tell
