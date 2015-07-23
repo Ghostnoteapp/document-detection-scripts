@@ -1,3 +1,3 @@
-tell application "Adobe Illustrator"
-	return the name of the current document
+tell application id "com.adobe.Illustrator"
+	return name of current document
 end tell

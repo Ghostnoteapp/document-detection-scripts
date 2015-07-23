@@ -1,3 +1,3 @@
-tell application "Adobe Photoshop CC 2014"
+tell application id "com.adobe.Photoshop"
 	return name of current document
 end tell
