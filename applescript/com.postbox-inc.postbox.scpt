@@ -1,0 +1,1 @@
+tell application "Postbox"	set msg to selection	return msgend tell
